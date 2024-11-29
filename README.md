@@ -16,11 +16,11 @@ Before running code, please:
 
 Install all node modules by executing command from `/project-web-ui` directory:
 ```
-node install
+npm install
 ```
 Start web interface by executing command from `/project-web-ui` directory:
 ```
-node start
+npm start
 ```
 Start HTTP server by executing command from `/programming/api` directory:
 ```
